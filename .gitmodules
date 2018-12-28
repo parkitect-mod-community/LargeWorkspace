@@ -1,0 +1,24 @@
+[submodule "Parkitect_Track_Modify"]
+	path = Parkitect_Track_Modify
+	url = git@github.com:pollend/Parkitect_Track_Modify.git
+[submodule "Parkitect_Virginia_Reel"]
+	path = Parkitect_Virginia_Reel
+	url = git@github.com:pollend/Parkitect_Virginia_Reel.git
+[submodule "Parkitect_Panda_Entertainer"]
+	path = Parkitect_Panda_Entertainer
+	url = git@github.com:pollend/Parkitect_Panda_Entertainer.git
+[submodule "ParkitectTwitchIntegration"]
+	path = ParkitectTwitchIntegration
+	url = git@github.com:pollend/ParkitectTwitchIntegration.git
+[submodule "ParkitectCheats"]
+	path = ParkitectCheats
+	url = git@github.com:pollend/ParkitectCheats.git
+[submodule "Parkitect_Spinning_Car"]
+	path = Parkitect_Spinning_Car
+	url = git@github.com:pollend/Parkitect_Spinning_Car.git
+[submodule "Parkitect_Side_Friction_Coaster"]
+	path = Parkitect_Side_Friction_Coaster
+	url = git@github.com:pollend/Parkitect_Side_Friction_Coaster.git
+[submodule "Parkitect_CorkscrewCoaster"]
+	path = Parkitect_CorkscrewCoaster
+	url = git@github.com:pollend/Parkitect_CorkscrewCoaster.git

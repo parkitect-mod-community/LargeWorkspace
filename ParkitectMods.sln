@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "ParkitectMods", "ParkitectMods\ParkitectMods.shproj", "{99EAE763-FB14-4602-9F79-5C88BEB9BE80}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		ParkitectMods\ParkitectMods.projitems*{99eae763-fb14-4602-9f79-5c88beb9be80}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E160ADBE-A195-4941-AF3D-58689404ACA3}
+	EndGlobalSection
+EndGlobal
