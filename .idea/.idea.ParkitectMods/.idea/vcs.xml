@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ParkitectCheats" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ParkitectTwitchIntegration" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ParkitectTwitchIntegration/UnityTwitchIRC" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Parkitect_CorkscrewCoaster" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Parkitect_CorkscrewCoaster/TrackRiderUtil" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Parkitect_Panda_Entertainer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Parkitect_Side_Friction_Coaster" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Parkitect_Side_Friction_Coaster/TrackRiderUtil" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Parkitect_Spinning_Car" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Parkitect_Track_Modify" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Parkitect_Virginia_Reel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Parkitect_Virginia_Reel/TrackRiderUtil" vcs="Git" />
+  </component>
+</project>

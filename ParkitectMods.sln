@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PandaEntertainer", "Parkitect_Panda_Entertainer\PandaEntertainer.csproj", "{62921F50-6388-43FE-9DB2-B7F8556A7931}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpinningCar", "Parkitect_Spinning_Car\SpinningCar.csproj", "{B040106D-326E-4041-BF7A-3902AE05E413}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackEdit", "Parkitect_Track_Modify\TrackEdit.csproj", "{459878D9-6830-4F2A-8D52-4A54D7715C28}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirginiaReel", "Parkitect_Virginia_Reel\VirginiaReel.csproj", "{228AE9D3-29AD-4340-9507-A5C8693EDA4A}"
@@ -29,10 +27,6 @@ Global
 		{62921F50-6388-43FE-9DB2-B7F8556A7931}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62921F50-6388-43FE-9DB2-B7F8556A7931}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62921F50-6388-43FE-9DB2-B7F8556A7931}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B040106D-326E-4041-BF7A-3902AE05E413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B040106D-326E-4041-BF7A-3902AE05E413}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B040106D-326E-4041-BF7A-3902AE05E413}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B040106D-326E-4041-BF7A-3902AE05E413}.Release|Any CPU.Build.0 = Release|Any CPU
 		{459878D9-6830-4F2A-8D52-4A54D7715C28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{459878D9-6830-4F2A-8D52-4A54D7715C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{459878D9-6830-4F2A-8D52-4A54D7715C28}.Release|Any CPU.ActiveCfg = Release|Any CPU

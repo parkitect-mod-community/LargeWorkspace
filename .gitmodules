@@ -13,9 +13,6 @@
 [submodule "ParkitectCheats"]
 	path = ParkitectCheats
 	url = git@github.com:pollend/ParkitectCheats.git
-[submodule "Parkitect_Spinning_Car"]
-	path = Parkitect_Spinning_Car
-	url = git@github.com:pollend/Parkitect_Spinning_Car.git
 [submodule "Parkitect_Side_Friction_Coaster"]
 	path = Parkitect_Side_Friction_Coaster
 	url = git@github.com:pollend/Parkitect_Side_Friction_Coaster.git
